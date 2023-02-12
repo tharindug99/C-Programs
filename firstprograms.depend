@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1628431808 source:c:\users\asus\documents\c++\firstprograms\main.cpp
+	<iostream>
+
+1628431822 source:c:\users\asus\documents\c++\firstprograms\food.cpp
+	<iostream>
+
+1628431832 source:c:\users\asus\documents\c++\firstprograms\charchanger.cpp
+	<iostream>
+
+1628432962 source:c:\users\asus\documents\c++\firstprograms\maths.cpp
+	<iostream>
+	<cmath>
+
+1628433231 source:c:\users\asus\documents\c++\firstprograms\inputoutput.cpp
+	<iostream>
+
